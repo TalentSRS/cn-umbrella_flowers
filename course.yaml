@@ -1,0 +1,10 @@
+title: Umbrella Flowers
+tags:
+ - Beginner
+ - Story
+description: Chinese children's story about umbrellas.
+image: umbrella.jpg
+units:
+ - title: 小伞花
+   content: cn_story.umbrella_flowers.txt
+   stencils: cn_story.umbrella_flowers.txt.yaml
